@@ -1,4 +1,24 @@
+# System files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor files
 .idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Project specific
 local
 docs
+
+# Temporary files
+*.tmp
+*.temp
+*.log
