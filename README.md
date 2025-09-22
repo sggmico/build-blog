@@ -3,6 +3,7 @@
 
 ## 2025
 - [001_Claude Code 安装&注册&升级简述](2025/001_Claude%20Code%20安装&注册&升级简述.md) —— Sep 19
+- [002_Claude Code Quickstart](2025/002_Claude%20Code%20Quickstart.md) —— Sep 22
 
 ## 2018
 - [001_初识Nodejs](2018/001_初识Nodejs.md) —— Apr 8
