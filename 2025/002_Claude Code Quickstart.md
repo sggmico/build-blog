@@ -1,4 +1,4 @@
-# Claude Code工作流
+# Claude Code Quickstart
 Sep 22, 2025  
 ## 1 Workflow
 
@@ -31,9 +31,9 @@ $ claude --dangerously-skip-permissions
 
 此时，AI coding 速度拉满，不用担心中间出问题， 因为有git来兜底，除了问题可以回滚。
 
-- **当执行任务过程中，出现超预期错误：**可以通过按 ESC 键中断任务，及时踩刹车，然后重新输入需求。
-- **当执行中出现微小偏差：**可以补充输入指令，调整执行方向。
-- **当执行任务多了：**CC可能会变的不聪明，此时可以执行 /clear 指令，清除记忆。再重新引用 @规划文档，然后告知继续执行，即可。
+- **当执行任务过程中，出现超预期错误：** 可以通过按 ESC 键中断任务，及时踩刹车，然后重新输入需求。
+- **当执行中出现微小偏差：** 可以补充输入指令，调整执行方向。
+- **当执行任务多了：** CC可能会变的不聪明，此时可以执行 /clear 指令，清除记忆。再重新引用 @规划文档，然后告知继续执行，即可。
 
 ### 2.2 Extended Thinking 扩展思考模式
 
@@ -148,7 +148,7 @@ SugAgent-2: 查看天气agent
 
 ### 2.9 使用量查看
 
-[**ccusage](https://github.com/ryoppippi/ccusage)** - A CLI tool for analyzing Claude Code usage from local JSONL files.
+[**ccusage**](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 
 ```bash
 $ npx ccusage@latest
