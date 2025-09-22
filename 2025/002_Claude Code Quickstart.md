@@ -143,8 +143,13 @@ SugAgent-2: 查看天气agent
 执行流程解析：
 
 ```bash
-> 帮我code review 当前这个git分支, 并查询下北京今天的天气。
+> 帮我code review 当前这个git分支, 并查询下保定今天的天气。
 ```
+<img src="../public/image/subagent-flow.jpg" alt="subagent-flow" width="600">
+
+执行结果：
+
+<img src="../public/image/subagent.jpg" alt="subagent执行结果" width="600">
 
 ### 2.9 使用量查看
 
@@ -169,8 +174,7 @@ $ npx ccusage@latest
 ```markdown
 > claude -p 这项目有多少文件?
 ```
-
-[]()
+<img src="../public/image/claude-code无头模式.jpg" alt="claude-code无头模式" width="600">
 
 ## 3 Github集成
 
