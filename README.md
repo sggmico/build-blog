@@ -2,8 +2,9 @@
 > ”放弃向他人证明自己，放弃向自己证明自己。专注忘我地去做你应该做的事情，心无旁骛地去解决问题。当你脚踏实地的走自己的路时，那种拼命想要证明什么的冲动就会越来越少。你也会因此变得轻松、自由。“ ——查理·芒格
 
 ## 2025
+
 - [001_Claude Code 安装&注册&升级简述](2025/001_Claude%20Code%20安装&注册&升级简述.md) —— Sep 19
-- [002_Claude Code Quickstart](2025/002_Claude%20Code%20Quickstart.md) —— Sep 22
+- [002_Claude Code工作流](2025/002_Claude%20Code%20Quickstart.md) —— Sep 22
 
 ## 2018
 - [001_初识Nodejs](2018/001_初识Nodejs.md) —— Apr 8

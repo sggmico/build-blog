@@ -17,6 +17,9 @@ Thumbs.db
 # Project specific
 local
 docs
+.claude/
+CLAUDE.md
+
 
 # Temporary files
 *.tmp
