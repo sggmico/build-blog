@@ -6,6 +6,7 @@
 
 - [001_Claude Code 安装&注册&升级简述](2025/001_Claude%20Code%20安装&注册&升级简述.md) —— Sep 19
 - [002_Claude Code Quickstart](2025/002_Claude%20Code%20Quickstart.md) —— Sep 22
+- [003_深入理解 EIP-1167：从 FundQuest 项目实践中学习最小代理模式](2025/003_深入理解%20EIP-1167：从%20FundQuest%20项目实践中学习最小代理模式.md) —— Oct 5
 
 ## 2018
 - [001_初识Nodejs](2018/001_初识Nodejs.md) —— Apr 8
