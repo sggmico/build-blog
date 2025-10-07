@@ -17,6 +17,7 @@ Thumbs.db
 # Project specific
 local
 docs
+assets/
 .claude/
 CLAUDE.md
 
