@@ -1,5 +1,14 @@
 # Claude Code Quickstart
-Sep 22, 2025  
+
+Sep 22, 2025
+
+> **关键词：** `Claude Code` · `Workflow` · `AI 协作` · `项目管理` · `开发流程` · `最佳实践`
+
+---
+
+**阅读时间：** 约 10 分钟
+
+**难度等级：** ⭐⭐ 初中级  
 ## 1 Workflow
 
 ### 1.1 谋

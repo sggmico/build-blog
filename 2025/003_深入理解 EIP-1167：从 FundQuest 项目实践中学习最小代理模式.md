@@ -1,5 +1,11 @@
+# 深入理解 EIP-1167：从 FundQuest 项目实践中学习最小代理模式
+
+Oct 10, 2025
+
 > **关键词：** `EIP-1167` · `最小代理模式` · `Clone Factory` · `Gas 优化` · `智能合约` · `Solidity` · `代理合约` · `OpenZeppelin Clones`
+
 ---
+
 **阅读时间：** 约 15 分钟
 
 **难度等级：** ⭐⭐⭐ 中级
