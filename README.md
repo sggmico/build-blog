@@ -8,6 +8,7 @@
 - [002_Claude Code Quickstart](2025/002_Claude%20Code%20Quickstart.md) —— Sep 22
 - [003_深入理解 EIP-1167：从 FundQuest 项目实践中学习最小代理模式](2025/003_深入理解%20EIP-1167：从%20FundQuest%20项目实践中学习最小代理模式.md) —— Oct 5
 - [004_解决 Next.js 静态导出 PDF 中文乱码问题](2025/004_解决%20Next.js%20静态导出%20PDF%20中文乱码问题.md) —— Oct 11
+- [005_Next.js 15 静态导出中实现动态路由多语言支持](2025/005_Next.js%2015%20静态导出中实现动态路由多语言支持.md) —— Oct 12
 
 ## 2018
 - [001_初识Nodejs](2018/001_初识Nodejs.md) —— Apr 8
