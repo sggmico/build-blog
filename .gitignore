@@ -15,9 +15,7 @@ Thumbs.db
 *~
 
 # Project specific
-local
-docs
-assets/
+*.local*
 .claude/
 CLAUDE.md
 
