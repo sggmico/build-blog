@@ -16,9 +16,9 @@ Thumbs.db
 *~
 
 # Project specific
-*.local*
+*local*
 .claude/
-CLAUDE.md
+.publish-map.json
 
 
 # Temporary files
