@@ -398,5 +398,5 @@ Agent 不能自己说"我检查过了"，它得拿出证据，而且证据要经
 ## 延伸阅读
 
 - [**Anthropic Agent 工程实践**](https://www.anthropic.com/engineering/harness-design-long-running-apps)： Planner + Generator + Evaluator 的设计思路来源
-- **[Thoughtworks Guides + Sensors** ]([https://martinfowler.com/articles/harness-engineering.html)：](https://martinfowler.com/articles/harness-engineering.html)%EF%BC%9A) 前馈控制 + 反馈控制的系统框架
+- [**Thoughtworks Guides + Sensors**](https://martinfowler.com/articles/harness-engineering.html)： 前馈控制 + 反馈控制的系统框架
 - **实战课程** ：[learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
