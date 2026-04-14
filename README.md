@@ -1,9 +1,12 @@
 # Build Blog
+
 **“ 放弃向他人证明自己，放弃向自己证明自己。专注忘我地去做你应该做的事情，心无旁骛地去解决问题。当你脚踏实地的走自己的路时，那种拼命想要证明什么的冲动就会越来越少。你也会因此变得轻松、自由。 ”**
+
 <p align="right">——查理·芒格</p>
 
 ## 2026
 
+- [006_Harness工程系列：让 Agent 拥有持久记忆的多会话续接](2026/006_Harness%E5%B7%A5%E7%A8%8B%E7%B3%BB%E5%88%97-%E8%AE%A9%20Agent%20%E6%8B%A5%E6%9C%89%E6%8C%81%E4%B9%85%E8%AE%B0%E5%BF%86%E7%9A%84%E5%A4%9A%E4%BC%9A%E8%AF%9D%E7%BB%AD%E6%8E%A5.md) —— Apr 14
 - [005_Harness工程系列：别信AI“搞定了”，可以这样让TA自证清白](2026/005_Harness%E5%B7%A5%E7%A8%8B%E7%B3%BB%E5%88%97-%E5%88%AB%E4%BF%A1AI-%E6%90%9E%E5%AE%9A%E4%BA%86-%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E8%AE%A9TA%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD.md) —— Apr 12
 - [004_区块链安全实战：2025 黑暗森林生存手册](2026/004_%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AE%89%E5%85%A8%E5%AE%9E%E6%88%98-2025-%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.md) —— Jan 22
 - [003_PWA 渐进式 Web 应用工程指南-从判断到最小闭环](2026/003_PWA%20%E6%B8%90%E8%BF%9B%E5%BC%8F%20Web%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E6%8C%87%E5%8D%97-%E4%BB%8E%E5%88%A4%E6%96%AD%E5%88%B0%E6%9C%80%E5%B0%8F%E9%97%AD%E7%8E%AF.md) —— Jan 17
@@ -22,9 +25,10 @@
 - [004_解决 Next.js 静态导出 PDF 中文乱码问题](2025/004_解决%20Next.js%20静态导出%20PDF%20中文乱码问题.md) —— Oct 11
 - [003_深入理解 EIP-1167：从 FundQuest 项目实践中学习最小代理模式](2025/003_深入理解%20EIP-1167：从%20FundQuest%20项目实践中学习最小代理模式.md) —— Oct 5
 - [002_Claude Code Quickstart](2025/002_Claude%20Code%20Quickstart.md) —— Sep 22
-- [001_Claude Code 安装&注册&升级简述](2025/001_Claude%20Code%20安装&注册&升级简述.md) —— Sep 19
+- [001_Claude Code 安装&amp;注册&amp;升级简述](2025/001_Claude%20Code%20安装&注册&升级简述.md) —— Sep 19
 
 ## 2018
+
 - [008_Array.prototype.reduce()方法应用实践](2018/008_Array.prototype.reduce()方法应用实践.md) —— Aug 27
 - [007_javascript小题汇总](2018/007_javascript小题汇总.md) —— Aug 27
 - [006_Linux使用笔记_nginx篇](2018/006_Linux使用笔记_nginx篇.md) —— Jul 20
@@ -35,4 +39,5 @@
 - [001_初识Nodejs](2018/001_初识Nodejs.md) —— Apr 8
 
 ## 2017
+
 - [001_17年年初_前端遐想](2017/001_17年年初_前端遐想.md) —— Jan 16
