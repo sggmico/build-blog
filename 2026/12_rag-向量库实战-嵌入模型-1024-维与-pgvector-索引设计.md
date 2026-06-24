@@ -1,5 +1,5 @@
 ---
-title: RAG 向量库实战: 嵌入模型, 1024 维与 pgvector 索引设计
+title: "RAG 向量库实战: 嵌入模型, 1024 维与 pgvector 索引设计"
 date: 2026-06-24
 tags: [RAG, Embedding, pgvector, PostgreSQL, Vector Database]
 description: 本文从中文财报 RAG 的真实链路出发, 解释嵌入模型如何把文本变成向量, 为什么要校准 1024 维, 413 报错应优先限制单块长度, 以及 pgvector 如何把向量检索和元数据过滤放进同一张表.
@@ -184,4 +184,3 @@ SMOKE OK
 - [BAAI/bge-large-zh-v1.5 模型卡](https://huggingface.co/BAAI/bge-large-zh-v1.5)
 - [pgvector 官方文档](https://github.com/pgvector/pgvector)
 - [Supabase pgvector 文档](https://supabase.com/docs/guides/database/extensions/pgvector)
-

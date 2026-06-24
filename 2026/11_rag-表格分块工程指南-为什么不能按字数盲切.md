@@ -1,5 +1,5 @@
 ---
-title: RAG 表格分块工程指南: 为什么不能按字数盲切
+title: "RAG 表格分块工程指南: 为什么不能按字数盲切"
 date: 2026-06-17
 tags: [RAG, Embedding, Chunking, Mastra, FinRAG]
 description: 本文从财报 RAG 的表格分块问题出发, 说明为什么按字数盲切会破坏表头和数据的对应关系, 并给出一套结构感知切分方案.
@@ -414,4 +414,3 @@ RAG 分块不是按字数切文本, 而是按语义边界切知识.
 - [Mastra: Chunking and embedding documents](https://mastra.ai/docs/rag/chunking-and-embedding)
 - [BAAI/bge-large-zh model card](https://huggingface.co/BAAI/bge-large-zh)
 - [Mermaid Flowcharts syntax](https://mermaid.js.org/syntax/flowchart.html)
-
